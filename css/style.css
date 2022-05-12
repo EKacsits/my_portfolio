@@ -46,7 +46,7 @@ ul.nav.navbar li a {
     color: #fff;
     padding: 0;
     font-size: 1.5em;
-    font-family: 'Text Me One', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 ul.nav.navbar li a:hover,ul.nav.navbar li a.active{ 
 	color:#347df3;
